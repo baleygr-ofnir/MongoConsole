@@ -3,5 +3,5 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
-apsettings.json
+appsettings.json
 MongoConsole/appsettings.json
